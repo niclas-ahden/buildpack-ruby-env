@@ -1,0 +1,1 @@
+echo "Node.js Environment Check" && exit 0
