@@ -1,1 +1,1 @@
-echo "Node.js Environment Check" && exit 0
+echo "Ruby Environment Check" && exit 0
