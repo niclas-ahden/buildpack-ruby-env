@@ -1,4 +1,4 @@
-echo "Checking available Node.js environment..."
+echo "Checking available Ruby environment..."
 echo ""
 echo "Build dir: $1"
 echo "Cache dir: $2"
